@@ -1,4 +1,7 @@
-# coordination-example
+# Coordination Example
+
+An example of coordinating a set of numbers through a shared `Control`
+resource
 
 ## Run it on repl.it
 
