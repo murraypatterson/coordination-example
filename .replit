@@ -1,2 +1,2 @@
 language = "java"
-run = "javac RunNumbers.java ; java RunNumbers"
+run = "bash run.bash"
